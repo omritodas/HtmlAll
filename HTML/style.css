@@ -1,0 +1,22 @@
+nav>ul>li{
+    display: inline-block;
+    margin-right: 15px;
+}
+nav li>a{
+    text-decoration: none;
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+table{
+    border-collapse: collapse;
+    padding: 5px 10px;
+}
+td,th{
+    border: 1px solid black;
+}
